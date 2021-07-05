@@ -4,9 +4,10 @@
   <img src="https://fusiondev.kr/images/top-banner-780x160@2.png" style="width:780px; height:160px;" alt="퓨전 개발자 스터디 로고"/>
 </div>
 
-<div style="text-align: center; font-size: 20pt; font-weight: bold;">
-  파워 플랫폼 기초 과정 (PL-900)에 오신 여러분을 환영합니다!
-</div>
+---
+
+**파워 플랫폼 기초 과정 (PL-900)에 오신 여러분을 환영합니다!**
+
 
 ## 시작하기 ##
 
