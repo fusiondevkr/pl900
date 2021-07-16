@@ -1,7 +1,8 @@
 # Week 0: 킥오프 #
 
-![히어로 이미지](./hero.png)
-
+<div>
+  <img src="./hero.png" width="480" height="270" title="히어로 이미지" />
+</div>
 
 ## 🎬 녹화 동영상 ##
 
